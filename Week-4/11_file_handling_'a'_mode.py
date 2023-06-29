@@ -1,0 +1,6 @@
+f = open("demot1.txt", "a")
+f.write("\n welcome cohort")
+f.close()
+f = open("demot1.txt", "r")
+print(f.read())
+f.close()
