@@ -1,5 +1,5 @@
 fruits = ['Banana', 'Watermelon', 'Grapes', 'Mangoes']
-i = 0
+counter = 0
 while i<len(fruits):
-    print(fruits[i])
-    i = i+1
+    print(fruits[counter ])
+    counter = counter +1
