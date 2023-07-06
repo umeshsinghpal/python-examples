@@ -1,0 +1,5 @@
+#typecasting is used to change one datatype to another datatype (But make sure the intercahge of data is meaningful)
+a = str(123)
+#a  = str(a)
+print(str(a))
+print(type(a))
