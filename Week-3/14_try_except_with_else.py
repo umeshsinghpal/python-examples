@@ -1,10 +1,10 @@
 def exceptionhandling():
   try:
-    a=10
-    b=20
-    c=10
-    d=(a+b)/c
-    print(d)
+    num=10
+    num1=20
+    num2=10
+    division=(num+num1)/num2
+    print(division)
   except:
       print("there is a exception")
   else:
