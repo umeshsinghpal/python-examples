@@ -1,5 +1,5 @@
 fruits = ['Banana', 'Watermelon', 'Grapes', 'Mangoes']
 
-for i in fruits:
-    print(i)
+for value in fruits:
+    print(value )
    
