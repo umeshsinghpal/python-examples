@@ -1,4 +1,4 @@
-i = 4
+value = 4
 
 def run(player):
     pass
@@ -6,10 +6,10 @@ def run(player):
 def ouch(player):
     pass
 
-if i>0:
+if value > 0:
     pass
 
-while i>6:
+while value > 6:
   pass
 
 
