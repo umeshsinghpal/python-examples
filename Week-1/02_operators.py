@@ -1,27 +1,27 @@
-var1 = 3
-var2 = 4
+value1 = 3
+value2 = 4
 
 # Arithmetic Operators
-print("The value of var1 + var2 is ", var1 + var2)
-print("The value of var1 - var2 is ", var1 - vr2)
-print("The value of var1 * var2 is ", var1 * var2)
-print("The value of var1/var2 is ", var1/var2)
+print("The value of value1 + value2 is ", value1 + value2)
+print("The value of value1 - value2 is ", value1 - vr2)
+print("The value of value1 * value2 is ", value1 * value2)
+print("The value of value1/value2 is ", value1/value2)
 
 # Assignment Operators
-var3 = 34
-var3 -= 12 # var3 = var3 - 12
-var3 *= 12 # var3 = var3 * 12
-var3 /= 12
-print(var3)
+value3 = 34
+value3 -= 12 # value3 = value3 - 12
+value3 *= 12 # value3 = value3 * 12
+value3 /= 12
+print(value3)
 
 # Comparison Operators
-# var4 = (14<=7)
-# var4 = (14>=7)
-# var4 = (14<7)
-# var4 = (14>7)
-# var4 = (14==7)
-var4 = (14!=7)
-print(var4)
+# value4 = (14<=7)
+# value4 = (14>=7)
+# value4 = (14<7)
+# value4 = (14>7)
+# value4 = (14==7)
+value4 = (14!=7)
+print(value4)
 
 # Logical Operators
 bool1 = True
