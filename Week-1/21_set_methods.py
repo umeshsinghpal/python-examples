@@ -1,25 +1,25 @@
 # Creating an empty set
-b = set()
-print(type(b))
+emptySet = set()
+print(type(emptySet))
 
 ## Adding values to an empty set
-b.add(4)
-b.add(4)
-b.add(5)
-b.add(5) # Adding a value repeatedly does not changes a set
-b.add((4, 5, 6))
+emptySet.add(4)
+emptySet.add(4)
+emptySet.add(5)
+emptySet.add(5) # Adding a value repeatedly does not changes a set
+emptySet.add((4, 5, 6))
 
 ## Accessing Elements
-# b.add({4:5}) # Cannot add list or dictionary to sets
-print(b)
+# emptySet.add({4:5}) # Cannot add list or dictionary to sets
+print(emptySet)
 
 ## Length of the Set
-print(len(b)) # Prints the length of this set
+print(len(emptySet)) # Prints the length of this set
 
 ## Removal of an Item
-b.remove(5) # Removes 5 fromt set b
-# b.remove(15) # throws an error while trying to remove 15 (which is not present in the set)
-print(b)
+emptySet.remove(5) # Removes 5 fromt set emptySet
+# emptySet.remove(15) # throws an error while trying to remove 15 (which is not present in the set)
+print(emptySet)
 
-print(b.pop())
-print(b)
+print(emptySet.pop())
+print(emptySet)
