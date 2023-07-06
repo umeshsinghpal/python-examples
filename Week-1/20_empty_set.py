@@ -1,10 +1,10 @@
 # Important: This syntax will create an empty dictionary and not an empty set
-a = {}
-print(type(a))
+empty = {}
+print(type(empty))
 
 # An empty set can be created using the below syntax:
-b = set([1,2,3])
-print(b)
-print(type(b))
+set1 = set([1,2,3])
+print(set1)
+print(type(set1))
 
 
