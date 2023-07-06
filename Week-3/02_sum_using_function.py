@@ -1,6 +1,6 @@
 def add():
-    a=2
-    b=4
-    c=a+b
-    print("the addition of a and b is",c)
+    num1=2
+    num2=4
+    result=a+b
+    print("the addition of num1 and num2 is",result)
 add()
