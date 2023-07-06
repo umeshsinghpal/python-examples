@@ -1,10 +1,10 @@
 def exceptionHandling():
   try:
-     a="data"
-     b=20
-     c=0
-     d=(a+b)/c
-     print(d)
+     value="data"
+     num=20
+     num1=0
+     division=(value+num)/num1
+     print(division)
   except:
       print("in the except block") 
 exceptionHandling()
