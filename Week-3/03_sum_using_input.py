@@ -1,6 +1,6 @@
 def add_input():
-    a=int(input("enter the value for a:"))
-    b=int(input("enter the value of b:"))
-    c=a+b
-    print("the addition of a & b is:",c) 
+    num1=int(input("enter the value for num1:"))
+    num2=int(input("enter the value of num2:"))
+    result=num1+num2
+    print("the addition of num1 & num2 is:",result) 
 add_input()
