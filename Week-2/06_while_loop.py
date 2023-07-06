@@ -1,13 +1,13 @@
-'''i = 0
-while i<10:
-    print("Yes " + str(i))
-    i = i + 1
+'''count= 0
+while count<10:
+    print("Yes " + str(count))
+    count= count+ 1
 
 print("Done")
 '''
 
 
-i = 0
-while( i == 10):
+count= 0
+while( count== 10):
     print("hello")
-    i =i +1 
+    count=count+1 
