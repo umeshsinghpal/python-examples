@@ -1,7 +1,7 @@
 def add():
-    a= int(input("Enter the 1st number :"))
-    b= int(input("Enter the 2nd number :"))
-    c=a+b
-    return c
-sum=add()
-print("Addition is :", sum)
+    num1= int(input("Enter the 1st number :"))
+    num2= int(input("Enter the 2nd number :"))
+    sum=num1+num2
+    return sum
+result=add()
+print("Addition is :", result)
