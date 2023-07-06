@@ -1,4 +1,2 @@
-
-
-for i in range(8):
-    print(i)
+for value in range(8):
+    print(value)
