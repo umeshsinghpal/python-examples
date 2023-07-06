@@ -6,6 +6,6 @@ print(list1)
 #list1.insert(2, 544) # inserts 544 at index 2
 #list1.pop(2) # removes element at index 2
 #list1.remove(21) # removes 21 from the list
-print(l1)
+print(list1)
 
 #for more function please refter the Official Python Documentation
