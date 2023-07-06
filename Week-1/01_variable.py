@@ -1,16 +1,32 @@
-var1 = '''Cohort'''   #string datatype
-var2 = 345            #Integer datatype
-var3 = 45.32          #Float datatype
-var4 = False          #Boolean datatype
+#string datatype
+test_string = "Cohort"
+
+#Integer datatype
+test_int = 345
+
+#Float datatype
+test_float = 45.32
+
+#Boolean datatype
+test_bool = False
+
+#Multiline String
+test_multiline_string = """This is
+a 
+multiline
+     String"""
+
 
 # Printing the variables
-print(var1)
-print(var2)
-print(var3)
-print(var3)
+print(test_string)
+print(test_int)
+print(test_float)
+print(test_bool)
+print(test_multiline_string)
 
 # Printing the type of variables
-print(type(var1))
-print(type(var2))
-print(type(var3))
-print(type(var4))
+print(type(test_string))
+print(type(test_int))
+print(type(test_float))
+print(type(test_bool))
+print(type(test_multiline_string))
